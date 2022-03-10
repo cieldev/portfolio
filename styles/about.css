@@ -71,6 +71,10 @@
 .link-list__link--reddit:hover{color:#FF5700}
 .link-list__link--geartics:active,
 .link-list__link--geartics:hover{color:#039be5}
+.link-list__link--note:active,
+.link-list__link--note:hover{color:#41C9B2}
+.link-list__link--alphapolis:active,
+.link-list__link--alphapolis:hover{color:#e69b22}
 
 .bio-list{
     padding-left:5px;
